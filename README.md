@@ -5,3 +5,9 @@ intro to graphics from Utah University
 地址在：
 https://graphics.cs.utah.edu/courses/cs4600/fall2021/
   
+
+## Project1
+![project1](/images/project1.gif)
+
+## Project2
+![project2](/images/project2.png)
