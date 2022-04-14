@@ -14,3 +14,6 @@ https://graphics.cs.utah.edu/courses/cs4600/fall2021/
 
 ## Project3
 ![project3](/images/project3.png)
+
+## Project4
+![project4](/images/project4.gif)
