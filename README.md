@@ -29,4 +29,8 @@ https://graphics.cs.utah.edu/courses/cs4600/fall2021/
 ![project6](/images/project6.png)
 [视频链接](https://www.bilibili.com/video/BV1gT4y1a7oA/)
 
+## Project7
+![project7](/images/project7.png)
+[视频链接](https://www.bilibili.com/video/BV1tu411k7cb/)
+
 
